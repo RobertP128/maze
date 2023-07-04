@@ -144,7 +144,7 @@ public class Application {
                 }
             }
         }
-        System.out.println("No way further hear, going back to prev item");
+        //System.out.println("No way further hear, going back to prev item");
 
 
     }
